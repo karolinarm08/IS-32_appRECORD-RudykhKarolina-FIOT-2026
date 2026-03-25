@@ -6,8 +6,8 @@
 
 
 **Місце розташування:**
-- GitHub: https://github.com/karolinarm08/IS-32_appRECORD-RudykhKarolina-FIOT-2026
-- Live demo: https://karolinarm08.github.io/IS-32_appRECORD-RudykhKarolina-FIOT-2026/
+- GitHub: https://github.com/karolinarm08/Interior_RudykhKO
+- Live demo: https://karolinarm08.github.io/Interior_RudykhKO/
 
 ---
 
